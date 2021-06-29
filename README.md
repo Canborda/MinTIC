@@ -8,3 +8,4 @@ For practice purposes only.
 |:-----|:------:|
 | Camilo Andrés Borda Gil | Owner |
 | Jonnathan Jamith Gil Vanegas | Editor |
+| Daniel Stiven Borda Gil | Editor |
