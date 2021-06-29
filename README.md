@@ -7,3 +7,4 @@ For practice purposes only.
 | Name | Charge |
 |:-----|:------:|
 | Camilo Andrés Borda Gil | Owner |
+| Jonnathan Jamith Gil Vanegas | Editor |
