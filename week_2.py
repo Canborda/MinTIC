@@ -2,12 +2,30 @@
 def exercise_1():
     print('ejercicio 1')
 
-    print("Exercise of Jonnathan")
+    print("Exercise of Daniel es gay")
 
 
 def exercise_2():
     print('ejercicio 2')
-    print('Exercise of Danielito')
+    print('Exercise of Jonnathan' "\n")
+
+    k = float(input("Enter your capital value: "))
+    i = float(input("Enter your daily interest rate: "))
+    t = float(input("Enter your interest time: "))
+
+    print("\n""SIMPLE INTEREST" "\n")
+    vf1= k * i * t
+    print("Your simple interest to pay is ", vf1, "pesos ")
+    vt1 = k + vf1
+    print("Your total value to pay is ", vt1, "pesos" "\n")
+
+    print("COMPOUND INTEREST" "\n")
+    vf2 = k *(1+i)**t
+    print("Your compound interest to pay is ", vf2, "pesos ")
+    vt2 = k + vf2
+    print("Your total value to pay is ", vt2, "pesos ")
+
+    #Me gustaria hacerlo con funciones pero no se me da jaja me tocar mirar como lo puedo hacer.
     
 def exercise_3():
     print('ejercicio 3')
