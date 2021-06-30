@@ -7,7 +7,8 @@ def exercise_1():
 
 def exercise_2():
     print('ejercicio 2')
-
+    print('Exercise of Danielito')
+    
 def exercise_3():
     print('ejercicio 3')
 
