@@ -2,6 +2,9 @@
 def exercise_1():
     print('ejercicio 1')
 
+    print("Exercise of Jonnathan")
+
+
 def exercise_2():
     print('ejercicio 2')
 
