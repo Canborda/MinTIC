@@ -2,7 +2,7 @@
 def exercise_1():
     print('ejercicio 1')
     print("Exercise of Daniel es gay")
-
+    
     canta=int(input("How many sheets does it require?: "))
     canth=int(input("Amount of leaves on the branches?: "))
     cantr=int(input("Number of tree branches?: "))
@@ -18,7 +18,7 @@ def exercise_1():
         if canth > canta:
             break
     
-    print("You need ",tree, "trees, ",branches, "branches more also and it would be necessary ", canta, "sheets.")
+    print("You need ",tree, " trees, ",branches, " branches more also and it would be necessary ", canta, " sheets.")
 
     
 
