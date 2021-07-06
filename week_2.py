@@ -8,7 +8,7 @@ def exercise_1():
     cantr=int(input("Number of tree branches?: "))
     branches=0
     tree=0
-    while branches < canta:
+    while (True):
         if canth <= canta:
             canta = canta - canth
             branches += 1
@@ -18,7 +18,7 @@ def exercise_1():
         if canth > canta:
             break
     
-    print("You need ",tree, " trees, ",branches, " branches more also and it would be necessary ", canta, " sheets.")
+    print("You need ",tree, " trees, ",branches, " branches and ", canta, " sheets.")
 
     
 
