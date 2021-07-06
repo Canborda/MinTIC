@@ -15,8 +15,10 @@ def exercise_1():
         if branches == cantr:
             branches = branches - cantr
             tree += 1
+        if canth > canta:
+            break
     
-    print("You need ",tree, "trees and ",branches, "branches more also.")  
+    print("You need ",tree, "trees, ",branches, "branches more also and it would be necessary ", canta, "sheets.")
 
     
 
