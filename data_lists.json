@@ -1,0 +1,156 @@
+{
+    "students": [
+        {
+            "firstName": "Benjamin",
+            "lastName": "Brown",
+            "ID": "8858599662",
+            "subjects": {
+                "spanish": 3.9,
+                "math": 2.0,
+                "physics": 2.8,
+                "chemistry": 3.4,
+                "history": 4.1
+            }
+        },
+        {
+            "firstName": "Christian",
+            "lastName": "Thompson",
+            "ID": "9461767728",
+            "subjects": {
+                "spanish": 4.3,
+                "math": 4.5,
+                "physics": 3.8,
+                "chemistry": 4.1,
+                "history": 3.3
+            }
+        },
+        {
+            "firstName": "Megan",
+            "lastName": "Green",
+            "ID": "4416136912",
+            "subjects": {
+                "spanish": 4.3,
+                "math": 4.0,
+                "physics": 4.1,
+                "chemistry": 4.6,
+                "history": 3.9
+            }
+        },
+        {
+            "firstName": "Nathan",
+            "lastName": "Johnson",
+            "ID": "4104071716",
+            "subjects": {
+                "spanish": 3.0,
+                "math": 2.8,
+                "physics": 3.3,
+                "chemistry": 1.7,
+                "history": 3.8
+            }
+        },
+        {
+            "firstName": "Ellen",
+            "lastName": "Jackson",
+            "ID": "5874752006",
+            "subjects": {
+                "spanish": 2.7,
+                "math": 4.1,
+                "physics": 3.3,
+                "chemistry": 4.6,
+                "history": 3.7
+            }
+        },
+        {
+            "firstName": "Shannon",
+            "lastName": "Sullivan",
+            "ID": "2724692135",
+            "subjects": {
+                "spanish": 4.6,
+                "math": 4.9,
+                "physics": 4.3,
+                "chemistry": 3.2,
+                "history": 3.9
+            }
+        },
+        {
+            "firstName": "Stephen",
+            "lastName": "Martin",
+            "ID": "4356453110",
+            "subjects": {
+                "spanish": 3.8,
+                "math": 3.4,
+                "physics": 3.9,
+                "chemistry": 3.2,
+                "history": 4.0
+            }
+        },
+        {
+            "firstName": "Owen",
+            "lastName": "Wilson",
+            "ID": "1626340201",
+            "subjects": {
+                "spanish": 4.1,
+                "math": 3.1,
+                "physics": 2.1,
+                "chemistry": 2.8,
+                "history": 3.6
+            }
+        },
+        {
+            "firstName": "Caitlin",
+            "lastName": "Anderson",
+            "ID": "1116067133",
+            "subjects": {
+                "spanish": 1.8,
+                "math": 1.2,
+                "physics": 1.5,
+                "chemistry": 2.8,
+                "history": 2.6
+            }
+        },
+        {
+            "firstName": "Jordan",
+            "lastName": "Thompson",
+            "ID": "5004135952",
+            "subjects": {
+                "spanish": 4.6,
+                "math": 3.0,
+                "physics": 3.6,
+                "chemistry": 4.0,
+                "history": 3.2
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "firstName": "Alexandra",
+            "lastName": "Emerson",
+            "subject": "spanish",
+            "age": 42
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Mcnally",
+            "subject": "math",
+            "age": 52
+        },
+        {
+            "firstName": "Tyler",
+            "lastName": "Manley",
+            "subject": "physics",
+            "age": 47
+        },
+        {
+            "firstName": "Mia",
+            "lastName": "Hansen",
+            "subject": "chemistry",
+            "age": 39
+        },
+        {
+            "firstName": "Stephen",
+            "lastName": "Brandon",
+            "subject": "history",
+            "age": 62
+        }
+    ]
+}
