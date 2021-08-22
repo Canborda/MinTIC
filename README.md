@@ -1,4 +1,4 @@
-# MinTIC
+# <b>Programing Challenges</b> 
 For practice purposes only.
 
 
@@ -9,3 +9,4 @@ For practice purposes only.
 | Camilo Andrés Borda Gil | Owner |
 | Jonnathan Jamith Gil Vanegas | Editor |
 | Daniel Stiven Borda Gil | Editor |
+| Laura Carolina Barón Susano | Editor |
