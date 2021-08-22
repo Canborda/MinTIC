@@ -7,7 +7,7 @@ while True:
         print("Protein")
         print("(1) Beef\n(2) Chicken\n(3) Pork Meat\n")
         print("Accompaniments")
-        print("(1) Bean\n(2) Spaghet\n(3) Lentils\n")
+        print("(1) Beans\n(2) Spaghetti\n(3) Lentils\n")
         print("Salad")
         print("(1) Sweet salad\n(2) Mexican Salad\n(3) Parisian salad\n")
         print("Juice")

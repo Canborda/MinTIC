@@ -5,20 +5,16 @@ Write a code for orders management to handle the orders. The main menu has three
 The ___restaurant menu___ has 4 categories and 3 options for each one:
 > | Category | Options |
 > |:---------|:--------|
-> | Protein | (1) Option_1.1<br> (2) Option_1.2<br>(3) Option_1.3 |
-> | Accompaniment | (1) Option_2.1<br> (2) Option_2.2<br>(3) Option_2.3 |
-> | Salad | (1) Option_3.1<br> (2) Option_3.2<br>(3) Option_3.3 |
-> | Juice | (1) Option_4.1<br> (2) Option_4.2<br>(3) Option_4.3 |
-
-<!-- TODO Replace Option_N.N with their real option -->
+> | Protein | (1) Beef<br> (2) Chicken<br>(3) Pork Meat |
+> | Accompaniment | (1) Beans<br> (2) Spaghetti<br>(3) Lentils |
+> | Salad | (1) Tropical salad<br> (2) Mexican Salad<br>(3) Parisian Salad |
+> | Juice | (1) Strawberry<br> (2) Mango<br>(3) Pineapple |
 
 ## <b>Requeriments:</b>
 
 1. The _orders list_ should implements a __FIFO__ (First In, First Out) data structure.
 
-2. When the user selects a menu must write the code for each selection. <b>Example:</b> ```'1231'``` stands for: _option 1_ for protein, _option 2_ for accompaniment, _option 3_ for salad and _option 1_ for juice.
-
-<!-- TODO Replace the options in the example. -->
+2. When the user selects a menu must write the code for each selection. <b>Example:</b> ```'1231'``` stands for: _Beef_ for protein, _Spaghetti_ for accompaniment, _Parisian Salad_ for salad and _Strawberry_ for juice.
 
 3. The list cannot have repeated orders.
 
