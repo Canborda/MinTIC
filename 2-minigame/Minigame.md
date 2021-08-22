@@ -3,16 +3,19 @@
 Write a code for a simple game where the user must reach a goal using different keys to move a token around a squared board.
 
 > <b>Example:</b><br>
-> ```. . . . . . . . . .```<br>
-> ```. . . . . . . . . .```<br>
-> ```. . . . . . . . . .```<br>
-> ```. . . X . . . . . .```<br>
-> ```. . . . . . . . . .```<br>
-> ```. . . . . . . . . .```<br>
-> ```. . . . . . . . . .```<br>
-> ```. . . . . . . O . .```<br>
-> ```. . . . . . . . . .```<br>
-> ```. . . . . . . . . .```<br>
+> For a board with size 10, the token in the position [2,3] and the goal in the position [6,8]:
+> <pre>
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  O  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  X  .
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  .  .
+> .  .  .  .  .  .  .  .  .  .
+> </pre>
 
 ## <b>Requeriments:</b>
 
