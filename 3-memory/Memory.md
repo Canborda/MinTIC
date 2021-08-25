@@ -43,5 +43,9 @@ LEVEL 4
    Final Score = 8
 </pre>
 
-
 ### <b>Required concepts (_Hints_):</b>
+
+> - <span style="color:lightblue">While:</span> for the program remain running until the user loses.
+> - <span style="color:lightblue">For:</span> To generate $n$ random digits and for character-by-character string comparations.
+> - <span style="color:lightblue">Return carriage:</span> When using the ```print``` function, the ```end='\r'``` argument allows to overwrite the next ```print``` on the same line.
+> - <span style="color:lightblue">Libraries:</span> Use the ```random``` library to generate random integers. Use the ```time``` library to add time delays to show the number for a period of time.
