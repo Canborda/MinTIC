@@ -34,11 +34,11 @@ while True:
         for i,j in zip (str(aleat), str(num)):
             if i==j:
                 score=score+1
-            else:
-                score=score+0
-        print("Your score is: ", score, "\n")
+        print("Your final score is: ", score, "\n")
+        print("Last round reached: ", round, "\n")
         break       
     
+# GRADE = 5.0
 
 
         
