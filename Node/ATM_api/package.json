@@ -1,0 +1,19 @@
+{
+  "name": "atm_api",
+  "version": "1.0.0",
+  "description": "Practice project to simulate ATM operations via API using NodeJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Camilo Andres Borda Gil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
